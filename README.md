@@ -1,3 +1,3 @@
 # RN-CustomDrawer-widget
  Circle Animated React Native Drawer
-![](screen.gif)
+![](screen.gif)| width=100
