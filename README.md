@@ -1,4 +1,5 @@
 # RN-CustomDrawer-widget
- Circle Animated React Native Drawer
-![](screen.gif=250x)
+Circle Animated React Native Drawer
+
+>Demo Screen
 <img src="screen.gif" alt="drawer" width="200"/>
