@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "baseTemplate",
-    "slug": "baseTemplate",
+    "name": "CustomDrawer",
+    "slug": "CustomDrawer",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
